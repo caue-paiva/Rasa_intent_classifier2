@@ -1,0 +1,91 @@
+{
+    "padroes": [
+        {
+            "input": ["pesquise  web ", "procure  web",  "pesquise online", "busque  internet", "consulte internet",  "procure online",  "web", "online", "internet", "atualizada", "atualizadas", "busca google", "links", "link", "fontes", "fonte"],
+            "classe": "pesquisa_web"
+        },
+        {
+            "input": ["enem", " vestibular", "parecida com ENEM", "ENEM", "pesquise vestibular", " ver enem", "estilo ENEM", "procure enem ", "estilo enem", "vestibular", "busque   enem", "encontre  para o vestibular", "procure  enem", "pesquise   vestibular", " enem", "mostre   vestibular", "busque por  enem", "  vestibular", "mostre   enem para mim", "encontre   enem", "busque   vestibular", "estilo enem", "pesquise   vestibular", "  parecido com enem",  "mostre  enem", "busque por   vestibular", "encontre   vestibular antigo", "procure por   enem", "pesquise   vestibular", " ver   enem", "apresente vestibular", "procure   enem para mim", "pesquise  vestibular", "encontre   enem", "mostre-me   vestibular", "busque  enem", "encontre vestibular", "procure  enem", "pesquise  vestibular", "mostre  vestibular", "busque  enem", " vestibular", "mostre   enem para mim", "encontre  enem", "busque vestibular", "procure enem", "  vestibular"],
+            "classe": "busca_questoes"
+        },
+        
+        
+        {
+            
+                "input": [
+                    "verifique resposta",
+                    "qual alternativa correta",
+                    "mostre letra resposta certa",
+                    "confira resposta para mim",
+                    "verifique alternativa",
+                    "confira letra resposta",
+                    "pode verificar resposta",
+                    "qual resposta certa",
+                    "verifique alternativa correta",
+                    "confira resposta",
+                    "mostre alternativa certa",
+                    "qual letra resposta correta",
+                    "verifique resposta para essa",
+                    "pode confirmar alternativa correta",
+                    "confira letra correta para mim",
+                    "verifique resposta",
+                    "qual alternativa certa para",
+                    "confira resposta correta",
+                    "mostre letra resposta",
+                    "pode verificar alternativa",
+                    "confira resposta para mim",
+                    "verifique letra correta",
+                    "qual resposta correta",
+                    "confirme alternativa para mim",
+                    "pode mostrar letra resposta correta",
+                    "resposta foi",
+                    "letra resposta",
+                    "gabarito",
+                    "alternativa certa",
+                    "resposta letra",
+                    "letra correta",
+                    "alternativa",
+                    "resposta correta letra",
+                    "alternativa"
+                ],
+            
+               "classe":"verifica_resposta"
+        },
+        {
+            "input": [
+                "explique",
+                "ajudar entender",
+                "exemplo",
+                "resolver",
+                "ajudar exercicios",
+                "passos resolver",
+                "resumo",
+                "ajuda entender",
+                "melhorar",
+                "ajude revisar",
+                "conselhos",
+                "forma aprender",
+                "dicas",
+                "ajude preparar teste",
+                "ensinar",
+                "explicacao detalhada conceito",
+                "resolver",
+                "explicacao",
+                "ajudar entender solucao",
+                "explique equacao",
+                "explicacao passo a passo",
+                "teoria",
+                "teorema aplicado",
+                "exemplo funciona",
+                "fenomeno explicado",
+                "guiar problema",
+                "ajudar compreender ideia complexa",
+                "entender teoria",
+                "explique",
+                "explica"
+            ],
+        
+            "classe": "chat_padrao"
+        }
+    ]
+}

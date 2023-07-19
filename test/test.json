@@ -1,0 +1,490 @@
+{"rasa_nlu_data": {
+    "common_examples": 
+
+[
+    {
+        "text": "pesquise isso na web", 
+        "intent": "pesquisa_web", 
+        "entities": []
+    }, 
+    {
+        "text": "faca uma pesquisa rapida sobre",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "informacao",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "por mais detalhe",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "investigue na web",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "pesquisa profunda sobre",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "verificacao online",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "web",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "online",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "quais sao os detalhes deste",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "descubra mais a respeito disso",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "o que voce pode achar sobre isso",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "qual e o significado disto",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "pesquise mais a respeito disso",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "o que as pessoas estao comentando sobre isso",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "quais sao as opinioes a respeito disso",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "veja o que voce pode achar sobre isso",
+        "intent": "pesquisa_web",
+        "entities": []
+    },
+    {
+        "text": "questao do ENEM", 
+        "intent": "busca_questoes", 
+        "entities": []
+    }, 
+    {
+        "text": "pergunta do vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "questao de vestibular antigo",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "duvida do vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "gostaria de ver questao do ENEM",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "questao de vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "mostre uma questao do ENEM para mim",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "pergunta do ENEM",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "questao de vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "questao do ENEM",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "questao para o vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "duvida do ENEM",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "questao do vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "gostaria de ver uma pergunta do ENEM",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "duvida do vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "questao do ENEM",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "gostaria de uma questao de vestibular",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "mostre a questao do ENEM para mim",
+        "intent": "busca_questoes",
+        "entities": []
+    },
+    {
+        "text": "confirme a resposta da questao anterior",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "qual e a alternativa correta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "a letra da resposta certa",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "verifique a resposta para mim",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "confira a alternativa da questao passada",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "verifique a letra da resposta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "voce pode verificar a resposta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "qual e a resposta certa",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "confirme a alternativa correta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "verifique a resposta anterior",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "a alternativa correta da questao anterior",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "qual e a letra da resposta correta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "verifique a resposta para essa questao",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "pode confirmar a alternativa correta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "verifique a letra correta para mim",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "confirme a resposta da ultima questao",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "qual e a alternativa correta para a questao passada",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "verifique a resposta correta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "a letra da resposta anterior",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "pode verificar a alternativa da ultima questao",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "confira a resposta da questao para mim",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "confirme a letra correta da questao anterior",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "qual e a resposta correta da ultima questao",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "confirme a alternativa da questao anterior para mim",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "pode a letra da resposta correta",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "a alternativa correta da questao anterior era a letra A",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "a resposta da ultima questao foi B",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "a letra da resposta da questao anterior era C",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "o gabarito da questao passada era D",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "a alternativa correta era E",
+        "intent": "verifica_resposta",
+        "entities": []
+    },
+    {
+        "text": "poderia explicar mais sobre isso",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "quais sao os conceitos fundamentais de",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "como isso opera",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "voce pode me auxiliar a entender",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "o que isso representa",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "quais sao os principios de",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "um exemplo seria",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "como posso solucionar essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "pode me auxiliar com essa questao de exercicio",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "o que significa essa formula",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "os procedimentos para resolver essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "quais sao as regras para solucionar essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "pode me dar um resumo sobre essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "preciso de ajuda para compreender essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "vamos praticar mais com essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "como posso melhorar na resolucao de questoes",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "quais sao as melhores taticas para resolver questoes",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "me ajude a revisar essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "preciso de orientacao sobre como resolver essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "qual e a melhor maneira de aprender a resolver essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "vamos revisar o topico de solucao de questoes",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "me de algumas orientacoes sobre resolucao de questoes",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "como essa questao se correlaciona com o topico",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "o que preciso saber sobre a resolucao dessa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "vamos iniciar a licao sobre essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "me ajude a me preparar para o teste de questoes",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "qual e a tecnica para resolver essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "pode me instruir mais sobre resolver questoes",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "preciso praticar mais com essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "pode me explicar essa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    },
+    {
+        "text": "preciso de uma explicacao mais minuciosa sobre a resolucao dessa questao",
+        "intent": "chat_padrao",
+        "entities": []
+    }
+]
+
+
+}
+
+}

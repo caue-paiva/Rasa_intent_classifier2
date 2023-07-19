@@ -1,0 +1,557 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "pesquisa_web",
+        "text": "pesquise  web "
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "procure  web"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "pesquise online"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "busque  internet"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "consulte internet"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "procure online"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "web"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "online"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "internet"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "atualizada"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "atualizadas"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "busca google"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "links"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "link"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "fontes"
+      },
+      {
+        "intent": "pesquisa_web",
+        "text": "fonte"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "parecida com ENEM"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "ENEM"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "ver enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "estilo ENEM"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure enem "
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "estilo enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque   enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "encontre  para o vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise   vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "mostre   vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque por  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "mostre   enem para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "encontre   enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque   vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "estilo enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "encontre  enem para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise  vestibular para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "ver  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "mostre  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque por  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure por  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise   enem para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise   enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "ver enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "ver  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "estilo vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure   vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque por  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "encontre  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "encontre  vestibular para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "mostre  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure por  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "ver  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "estilo vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "estilo enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise  enem para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "mostre  vestibular para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "mostre  enem"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "ver  enem para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque  enem para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure  enem para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "procure  vestibular para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise  vestibular"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "busque  vestibular para mim"
+      },
+      {
+        "intent": "busca_questoes",
+        "text": "pesquise  enem"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "verifique resposta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "qual alternativa correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "mostre letra resposta certa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "confira resposta para mim"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "verifique alternativa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "confira letra resposta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "pode verificar resposta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "qual resposta certa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "verifique alternativa correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "confira resposta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "mostre alternativa certa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "qual letra resposta correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "verifique resposta para essa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "pode confirmar alternativa correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "confira letra correta para mim"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "verifique resposta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "qual alternativa certa para"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "confira resposta correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "mostre letra resposta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "pode verificar alternativa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "confira resposta para mim"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "verifique letra correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "qual resposta correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "confirme alternativa para mim"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "pode mostrar letra resposta correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "resposta foi"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "letra resposta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "gabarito"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "alternativa certa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "resposta letra"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "letra correta"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "alternativa"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "resposta correta letra"
+      },
+      {
+        "intent": "verifica_resposta",
+        "text": "alternativa"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "explique"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ajudar entender"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "exemplo"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "resolver"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ajudar exercicios"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "passos resolver"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "resumo"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ajuda entender"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "melhorar"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ajude revisar"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "conselhos"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "forma aprender"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "dicas"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ajude preparar teste"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ensinar"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "explicacao detalhada conceito"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "resolver"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "explicacao"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ajudar entender solucao"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "explique equacao"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "explicacao passo a passo"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "teoria"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "teorema aplicado"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "exemplo funciona"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "fenomeno explicado"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "guiar problema"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "ajudar compreender ideia complexa"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "entender teoria"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "explique"
+      },
+      {
+        "intent": "chat_padrao",
+        "text": "explica"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
